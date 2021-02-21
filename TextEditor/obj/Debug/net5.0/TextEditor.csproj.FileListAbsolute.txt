@@ -1,0 +1,16 @@
+C:\Users\josef\Visual_Code\TextEditor\bin\Debug\net5.0\TextEditor.exe
+C:\Users\josef\Visual_Code\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+C:\Users\josef\Visual_Code\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+C:\Users\josef\Visual_Code\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+C:\Users\josef\Visual_Code\TextEditor\bin\Debug\net5.0\TextEditor.dll
+C:\Users\josef\Visual_Code\TextEditor\bin\Debug\net5.0\ref\TextEditor.dll
+C:\Users\josef\Visual_Code\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+C:\Users\josef\Visual_Code\TextEditor\obj\Debug\net5.0\TextEditor.csprojAssemblyReference.cache
+C:\Users\josef\Visual_Code\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Visual_Code\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\josef\Visual_Code\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+C:\Users\josef\Visual_Code\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\josef\Visual_Code\TextEditor\obj\Debug\net5.0\TextEditor.dll
+C:\Users\josef\Visual_Code\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
+C:\Users\josef\Visual_Code\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+C:\Users\josef\Visual_Code\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache
