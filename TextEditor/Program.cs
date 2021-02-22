@@ -36,12 +36,13 @@ namespace TextEditor
             {
                 Console.Clear();
                 Console.WriteLine("Qual o caminho do arquivo?");
-                string path = Console.ReadLine();
+                string path = Console.ReadLine(); // Nessa linha irá se passar o caminho e o nome do arquivo existente: Exemplo: C:\Users\Josef\Documents\texte.txt
 
-                using(var file = new StreamReader(path)) // Sempre que vamos abrir ou salvar o arquivo, temos que usar o using. Todo o objeto que for aberto dentro de um using, ele irá abrir, usar e fechar o objeto automaticamente.
+                // Sempre que vamos abrir ou salvar o arquivo, temos que usar o using. Todo o objeto que for aberto dentro de um using, ele irá abrir, usar e fechar o objeto automaticamente.
+                using(var file = new StreamReader(path)) // variável file recebe o caminho e nome do arquivo a ser lido
                 {
-                    string text = file.ReadToEnd();
-                    Console.WriteLine(text);
+                    string text = file.ReadToEnd(); // Lê o arquivo file até o final e a string text recebe essa leitura.
+                    Console.WriteLine(text); //Exibe na tela o que foi lido
                 }
 
                 Console.WriteLine("");
@@ -88,14 +89,16 @@ namespace TextEditor
                 var path = Console.ReadLine();
 
                 // Todo o objeto que for aberto dentro de um using, ele irá abrir, usar e fechar o objeto automaticamente.
-                using (var file = new StreamWriter(path)) // StreamWriter = Fluxo de escrita que serve para qualquer tipo de arquivo.
+                // StreamWriter = Fluxo de escrita que serve para qualquer tipo de arquivo. O StreamWriter sempre pede o caminho do arquivo (path).
+
+                using (var file = new StreamWriter(path)) // Aqui é criado o arquivo no caminho especificado com o nome especificado: Exemplo: C:\Users\Josef\Documents\texte.txt
                 {
-                    file.Write(text); // Escreva no nosso arquivo o text
+                    file.Write(text); // Escreve no nosso arquivo o que está na nossa variável text
                 }
 
                 Console.WriteLine($"Arquivo {path} Salvo com sucesso!"); 
 
-                Console.ReadLine();
+                Console.ReadKey();
 
                 Menu();
             }
