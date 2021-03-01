@@ -1,0 +1,26 @@
+/home/junior/Documents/string/bin/Debug/netcoreapp3.1/string
+/home/junior/Documents/string/bin/Debug/netcoreapp3.1/string.deps.json
+/home/junior/Documents/string/bin/Debug/netcoreapp3.1/string.runtimeconfig.json
+/home/junior/Documents/string/bin/Debug/netcoreapp3.1/string.runtimeconfig.dev.json
+/home/junior/Documents/string/bin/Debug/netcoreapp3.1/string.dll
+/home/junior/Documents/string/bin/Debug/netcoreapp3.1/string.pdb
+/home/junior/Documents/string/obj/Debug/netcoreapp3.1/string.csprojAssemblyReference.cache
+/home/junior/Documents/string/obj/Debug/netcoreapp3.1/string.AssemblyInfoInputs.cache
+/home/junior/Documents/string/obj/Debug/netcoreapp3.1/string.AssemblyInfo.cs
+/home/junior/Documents/string/obj/Debug/netcoreapp3.1/string.csproj.CoreCompileInputs.cache
+/home/junior/Documents/string/obj/Debug/netcoreapp3.1/string.dll
+/home/junior/Documents/string/obj/Debug/netcoreapp3.1/string.pdb
+/home/junior/Documents/string/obj/Debug/netcoreapp3.1/string.genruntimeconfig.cache
+/home/junior/Documents/Exercicios Feber/string/bin/Debug/netcoreapp3.1/string
+/home/junior/Documents/Exercicios Feber/string/bin/Debug/netcoreapp3.1/string.deps.json
+/home/junior/Documents/Exercicios Feber/string/bin/Debug/netcoreapp3.1/string.runtimeconfig.json
+/home/junior/Documents/Exercicios Feber/string/bin/Debug/netcoreapp3.1/string.runtimeconfig.dev.json
+/home/junior/Documents/Exercicios Feber/string/bin/Debug/netcoreapp3.1/string.dll
+/home/junior/Documents/Exercicios Feber/string/bin/Debug/netcoreapp3.1/string.pdb
+/home/junior/Documents/Exercicios Feber/string/obj/Debug/netcoreapp3.1/string.csprojAssemblyReference.cache
+/home/junior/Documents/Exercicios Feber/string/obj/Debug/netcoreapp3.1/string.AssemblyInfoInputs.cache
+/home/junior/Documents/Exercicios Feber/string/obj/Debug/netcoreapp3.1/string.AssemblyInfo.cs
+/home/junior/Documents/Exercicios Feber/string/obj/Debug/netcoreapp3.1/string.csproj.CoreCompileInputs.cache
+/home/junior/Documents/Exercicios Feber/string/obj/Debug/netcoreapp3.1/string.dll
+/home/junior/Documents/Exercicios Feber/string/obj/Debug/netcoreapp3.1/string.pdb
+/home/junior/Documents/Exercicios Feber/string/obj/Debug/netcoreapp3.1/string.genruntimeconfig.cache
