@@ -11,3 +11,16 @@
 /home/junior/Downloads/Pendrive/Brasil317/Exercícios passados pelo Feber/string1/obj/Debug/netcoreapp3.1/string1.dll
 /home/junior/Downloads/Pendrive/Brasil317/Exercícios passados pelo Feber/string1/obj/Debug/netcoreapp3.1/string1.pdb
 /home/junior/Downloads/Pendrive/Brasil317/Exercícios passados pelo Feber/string1/obj/Debug/netcoreapp3.1/string1.genruntimeconfig.cache
+C:\Users\josef\Visual_Code\string1\bin\Debug\netcoreapp3.1\string1.exe
+C:\Users\josef\Visual_Code\string1\bin\Debug\netcoreapp3.1\string1.deps.json
+C:\Users\josef\Visual_Code\string1\bin\Debug\netcoreapp3.1\string1.runtimeconfig.json
+C:\Users\josef\Visual_Code\string1\bin\Debug\netcoreapp3.1\string1.runtimeconfig.dev.json
+C:\Users\josef\Visual_Code\string1\bin\Debug\netcoreapp3.1\string1.dll
+C:\Users\josef\Visual_Code\string1\bin\Debug\netcoreapp3.1\string1.pdb
+C:\Users\josef\Visual_Code\string1\obj\Debug\netcoreapp3.1\string1.csprojAssemblyReference.cache
+C:\Users\josef\Visual_Code\string1\obj\Debug\netcoreapp3.1\string1.AssemblyInfoInputs.cache
+C:\Users\josef\Visual_Code\string1\obj\Debug\netcoreapp3.1\string1.AssemblyInfo.cs
+C:\Users\josef\Visual_Code\string1\obj\Debug\netcoreapp3.1\string1.csproj.CoreCompileInputs.cache
+C:\Users\josef\Visual_Code\string1\obj\Debug\netcoreapp3.1\string1.dll
+C:\Users\josef\Visual_Code\string1\obj\Debug\netcoreapp3.1\string1.pdb
+C:\Users\josef\Visual_Code\string1\obj\Debug\netcoreapp3.1\string1.genruntimeconfig.cache
